@@ -3,7 +3,7 @@ title: From an International student to a registered nurse
 subtitle: How I transited from being an international student to a registered
   nurse in Australia
 category:
-  - About Awake
+  - Experiences
 author: Aashika Nepal
 date: 2022-08-15T10:36:17.491Z
 featureImage: /uploads/Nurseinaus-logos.jpeg

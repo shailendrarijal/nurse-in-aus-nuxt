@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'Nurse in Aus',
+  tagline: 'Sharing nursing stories',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -26,23 +26,23 @@ export default {
       name: 'Contact',
       link: '/contact'
     },
-    {
-      name: 'Categories',
-      link: '/categories'
-    },
-    {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
-    }
+    // {
+    //   name: 'Categories',
+    //   link: '/categories'
+    // },
+    // {
+    //   name: 'Github Repo',
+    //   link: 'https://github.com/danielkellyio/awake-template',
+    //   target: '_blank'
+    // },
+    // {
+    //   name: 'Awake+ Premium',
+    //   link: 'https://awake-premium-lp.netlify.com/',
+    //   target: '_blank'
+    // }
   ],
   hero: {
-    theme: 'dark' // options: mist, light, dark
+    theme: 'light' // options: mist, light, dark
   },
 
   // Main Layout/Style
@@ -61,20 +61,20 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: 'nurseinaus' // 'blog-danielkelly-io'
   },
 
   // Newsletter Subscribe
   newsletter: {
     on: true,
-    heading: 'Subscribe to Our Newsletter',
+    heading: 'Subscribe to my Newsletter',
     btnText: 'Subscribe',
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to
     mailchimp: {
       on: true,
       formAction:
-        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+        'https://blackboardnepal.us17.list-manage.com/subscribe/post?u=05c0853c6d566a872bb35560d&amp;id=4fd9f13727&amp;f_id=008247e0f0'
     },
     custom: {
       on: false,

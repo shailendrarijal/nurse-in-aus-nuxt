@@ -8,7 +8,7 @@ author: Aashika Nepal
 date: 2022-08-15T10:36:17.491Z
 featureImage: /uploads/Nurseinaus-logos.jpeg
 ---
-#### `"This is the shortest story of my nursing journey in Australia. I started my nursing studies back in 2016. There were loads and loads of lectures, assignments, role plays, placements, and tests. After completing all those, the door to nursing registration opened for me and I got my registration back in 2020."`
+> ### "This is the shortest story of my nursing journey in Australia. I started my nursing studies back in 2016. There were loads and loads of lectures, assignments, role plays, placements, and tests. After completing all those, the door to nursing registration opened for me and I got my registration back in 2020."
 
 During my studies, I always fancied working in a hospital. Even during my studies, I was working as an assistant nurse in both aged care and hospital. I was always inclined more toward the hospital setting. However, when I applied for registered nursing jobs, I discovered that as an international student, it is difficult to get a job at a hospital because I didn't have an Australian Permanent residency or Australian citizenship.
 

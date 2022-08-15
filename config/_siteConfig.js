@@ -12,7 +12,7 @@ export default {
   siteName: 'Nurse in Aus',
   tagline: 'Sharing nursing stories',
   featureImage: '/uploads/home-hero.jpg',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  logo: 'Nurseinaus-logos_black.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
